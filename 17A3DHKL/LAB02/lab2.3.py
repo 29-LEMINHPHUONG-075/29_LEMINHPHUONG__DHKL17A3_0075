@@ -2,7 +2,7 @@
 with open('D:\17A3DHKL\LAB02\efficiency.txt', 'r') as f:
     efficiency = [float(line.strip()) for line in f]
 
-with open('C:\\Users\\hieud\\OneDrive\\Desktop\\BAI TAP LAB\\LAB2\\shifts.txt', 'r') as f:
+with open('D:\17A3DHKL\LAB02\shifts.txt', 'r') as f:
     shifts = [line.strip() for line in f]
 
 print("Dữ liệu hiệu suất:", efficiency)
