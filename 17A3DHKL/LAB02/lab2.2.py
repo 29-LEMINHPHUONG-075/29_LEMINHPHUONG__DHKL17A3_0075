@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 # Đọc dữ liệu từ file CSV
-file_path = 'C:\\Users\\hieud\\OneDrive\\Desktop\\BAI TAP LAB\\LAB2\\diem_hoc_phan.csv'
+file_path = 'D:\17A3DHKL\LAB02\diem_hoc_phan.csv'
 
 data = pd.read_csv(file_path)
 
